@@ -1,13 +1,13 @@
-### Olá, eu sou o Fábio! 👋
+### Hi, I'm Fábio! 👋
 
-Sou estudante de Engenharia de Software na **42 São Paulo** há mais de 1 ano. Meu foco é entender a computação a fundo, desde a manipulação de memória até a inteligência artificial.
+I have been a Software Engineering student at **42 São Paulo** for over a year. My focus is on understanding computer science at a deep level, from memory manipulation to artificial intelligence.
 
-🎓 **Minha Jornada**
+🎓 **My Journey**
 
-Atualmente estou desenvolvendo um servidor web do zero (C++), o que me deu uma base sólida em algoritmos e estruturas de dados. Paralelamente, exploro o ecossistema Python para Machine Learning e GenAI.
+I am currently developing a web server from scratch (C++), which has provided me with a solid foundation in algorithms and data structures. In parallel, I am exploring the Python ecosystem for Machine Learning and GenAI.
 
 🛠 **Tech Stack**
 * **Core:** C, C++, Python
 * **Web:** HTML, CSS, JavaScript
-* **AI/Dados:** Machine Learning, GenAI basics
-* **Ferramentas:** Git, GitHub, Linux
+* **AI/Data:** Machine Learning, GenAI basics
+* **Tools:** Git, GitHub, Linux
