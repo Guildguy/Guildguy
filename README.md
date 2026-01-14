@@ -1,4 +1,4 @@
-### Hi, I'm Fábio! 👋
+### Hi, I'm Fábio! :wave:
 
 I have been a Software Engineering student at **42 São Paulo** for over a year. My focus is on understanding computer science at a deep level, from memory manipulation to artificial intelligence.
 
