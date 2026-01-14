@@ -14,11 +14,6 @@ I am currently developing a web server from scratch (C++), which has provided me
 
 🧰 **Languages and Tools**
 
-<div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux&theme=dark" />
-</div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guildguy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guildguy&layout=compact&theme=dracula"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux&theme=dark" />
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guildguy&theme=dracula&hide_border=true" />
