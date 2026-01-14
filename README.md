@@ -11,3 +11,6 @@ I am currently developing a web server from scratch (C++), which has provided me
 * **Web:** HTML, CSS, JavaScript
 * **AI/Data:** Machine Learning, GenAI basics
 * **Tools:** Git, GitHub, Linux
+
+🧰 **Languages and Tools**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
