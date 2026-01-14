@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/Guildguy">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Fábio Junior" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E29&width=435&lines=Hi+there;42+Student+and+tech+enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E29&width=435&lines=Hello+there+%F0%9F%91%8B;42+Student+and+tech+enthusiast" alt="Typing SVG" /></a>
 </p>
 
 I have been a Software Engineering student at **42 São Paulo** for over a year. My focus is on understanding computer science at a deep level, from memory manipulation to artificial intelligence.
