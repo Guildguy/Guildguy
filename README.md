@@ -14,8 +14,11 @@ I am currently developing a web server from scratch (C++), which has provided me
 
 🧰 **Languages and Tools**
 
-🧰 **Languages and Tools**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guildguy&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guildguy&layout=compact&theme=dracula)
+<div align="center">
+  <h3>📊 Estatísticas</h3>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guildguy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guildguy&layout=compact&theme=dracula"/>
+  </p>
+</div>
 
