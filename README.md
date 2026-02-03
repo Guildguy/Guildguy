@@ -18,4 +18,4 @@ I am currently developing a web server from scratch (C++), which has provided me
 
 🧰 **Languages and Tools**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,docker&theme=dark" />
